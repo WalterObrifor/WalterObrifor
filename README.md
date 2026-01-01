@@ -48,26 +48,21 @@ Through my work, I help businesses streamline reporting and target, automate rep
 
 #### Artificial Intelligence (AI) Skilsls
 <p>
-  <img src="https://img.shields.io/badge/N8N%20And%20MAKE-Expert-276DC3?style=flat&logo=AI&logoColor=white" alt="AI Skill Badge">
+  <img src="https://img.shields.io/badge/N8N%20And%20MAKE-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="AI Skill Badge">
   <img src="https://img.shields.io/badge/AI%20Web%20Developer-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="AI Skill Badge">
-  <img src="https://img.shields.io/badge/AI%20Content%20Creator-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/AI%20Web%20Developer-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/ChatGPT%20Prompt%20Engineering-Experienced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/AI%20Content%20Creator-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="AI Skill Badge">
+  <img src="https://img.shields.io/badge/AI%20Web%20Developer-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="AI Skill Badge">
+  <img src="https://img.shields.io/badge/ChatGPT%20Prompt%20Engineering-Experienced-3776AB?style=flat&logo=r&logoColor=white" alt="AI Skill Badge">
 </p>
 
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Expert-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Descriptive%20Analysis-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Diagnostics%20Analysis-Expert-4ECDC4?style=flat" alt="Diagnostics Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
 </p>
 
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/N8N,MAKE-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-</p>
