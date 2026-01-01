@@ -48,8 +48,8 @@ Through my work, I help businesses streamline reporting and target, automate rep
 
 #### Artificial Intelligence (AI)
 <p>
-  <img src="https://img.shields.io/badge/N8N,MAKE,CHATGPT-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/AI+Web+Developer-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/N8N%20MAKE%20CHATGPT-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/AI%20Web%20Developer-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
   <img src="https://img.shields.io/badge/N8N,MAKE,CHATGPT-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
   <img src="https://img.shields.io/badge/N8N,MAKE,CHATGPT-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
   <img src="https://img.shields.io/badge/N8N,MAKE,CHATGPT-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
