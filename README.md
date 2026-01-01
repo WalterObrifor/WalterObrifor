@@ -13,23 +13,25 @@
 </p>
 
 ## 🚀 About Me 
-I am a data analyst and business intelligence professional with a strong focus on helping organizations turn data into actionable insights. I specialize in analyzing business and marketing data, building dashboards, conducting exploratory and predictive analysis, and developing models that support data-driven decision-making.
+I am a full-stack data analyst and business intelligence professional with a strong ability to translate complex data into clear, actionable insights. I enjoy solving business problems through data modeling, dashboard development, analytics, and AI-driven solutions. My work focuses on enabling data-informed decision-making, optimizing performance, and building scalable analytics systems that drive measurable business insights.
 
-Through my work, I help businesses streamline reporting, automate repetitive processes, and gain clarity for strategic planning and growth.
+I specialize in analyzing business data, building dashboards, and conducting from statistic analysis to predictive analysis that support data-driven decision-making.
+
+Through my work, I help businesses streamline reporting and target, automate repetitive processes, and gain clarity for strategic planning and business growth.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Building a sales forecasting model in Python.]  
-- **Project B:** [Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on AI for data analysis and visualization for my YouTube channel.]
+- **Project A:** [Building a sales forecasting model in Excel.]  
+- **Project B:** [Creating an interactive business dashboar.]
+- **Content Creation:** [Developing tutorials on AI for data analysis]
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Cloud data warehousing with Google BigQuery.]
+- [Advanced machine learning techniques in Scikit-learn.]
+- [Cloud data warehousing with Google BigQuery]
 
 ## 🛠️ Technical Skillset
 
@@ -41,14 +43,15 @@ Through my work, I help businesses streamline reporting, automate repetitive pro
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Python Skill Badge">
 </p>
 
-#### Programming & Automation
+#### Artificial Intelligence (AI)
 <p>
-  <img src="https://img.shields.io/badge/N8N,MAKE-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/N8N,MAKE,CHATGPT-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/AI-Developer,AI-Agent Devloper,AI-Content-Creator,AI-Web-Developer-Experienced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
+
 
 #### Business Intelligence & Analytics
 <p>
@@ -57,4 +60,11 @@ Through my work, I help businesses streamline reporting, automate repetitive pro
   <img src="https://img.shields.io/badge/Diagnostics%20Analysis-Expert-4ECDC4?style=flat" alt="Diagnostics Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+</p>
+
+
+#### Programming & Automation
+<p>
+  <img src="https://img.shields.io/badge/N8N,MAKE-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
