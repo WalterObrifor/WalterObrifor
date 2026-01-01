@@ -59,7 +59,7 @@ Through my work, I help businesses streamline reporting and target, automate rep
 #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Expert-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Descriptive%20Analysis-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Descriptive%20Analysis-Expert-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Diagnostics%20Analysis-Expert-4ECDC4?style=flat" alt="Diagnostics Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
