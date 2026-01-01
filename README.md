@@ -46,14 +46,13 @@ Through my work, I help businesses streamline reporting and target, automate rep
   <img src="https://img.shields.io/badge/Python-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Python Skill Badge">
 </p>
 
-#### Artificial Intelligence (AI)
+#### Artificial Intelligence (AI) Skilsls
 <p>
-  <img src="https://img.shields.io/badge/N8N%20MAKE%20CHATGPT-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/N8N%20And%20MAKE-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="AI Skill Badge">
+  <img src="https://img.shields.io/badge/AI%20Web%20Developer-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="AI Skill Badge">
+  <img src="https://img.shields.io/badge/AI%20Content%20Creator-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
   <img src="https://img.shields.io/badge/AI%20Web%20Developer-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/N8N,MAKE,CHATGPT-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/N8N,MAKE,CHATGPT-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/N8N,MAKE,CHATGPT-Expert-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/AI-Developer,AI-Agent Devloper,AI-Content-Creator,AI-Web-Developer-Experienced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/ChatGPT%20Prompt%20Engineering-Experienced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
 
 
